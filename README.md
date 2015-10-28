@@ -1,5 +1,5 @@
 # Proba
-> Website monitor
+> Website monitor written in Elixir
 
 A pun with the english word probe and the swedish word prova, meaning to test something. Coinciding well with me testing out Elixir.
 

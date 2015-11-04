@@ -31,7 +31,7 @@ defmodule Proba.Mixfile do
     [
       {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.2"},
       {:httpotion, "~> 2.1.0"},
-      {:floki, github: "vikeri/floki"}
+      {:floki, "~> 0.7.0"}
     ]
   end
 end
